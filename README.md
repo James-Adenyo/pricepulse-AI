@@ -1,5 +1,4 @@
-# pricepulse-AI
-PricePulse AI — Smart Shopping Assistant
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
